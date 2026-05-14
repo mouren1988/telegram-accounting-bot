@@ -80,4 +80,4 @@
 * **Telegram 业务联系:** [@mouren1988](https://t.me/mouren1988) | [@up1988](https://t.me/up1988)
 
 ---
-*© 2026 TG记账 Bot. Powered by 91ray.com*
+*© 2026 TG记账 Bot. Powered by @mouren1988
