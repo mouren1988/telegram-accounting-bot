@@ -1,4 +1,4 @@
-# 🚀 Telegram 智能记账机器人 (Telegram Accounting & Finance Bot)
+# 🚀 Telegram 记账机器人 (Telegram Accounting & Finance Bot)
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/Version-v2.0(Stable)-green.svg)
@@ -52,7 +52,7 @@
 | `设置实时汇率` | 开启 60 秒自动更新汇率 |
 | `z0` | 查看实时汇率（欧易网） |
 
-💡 **多级配置示例：**
+💡 **多配置示例：**
 * 发送 `设置张三费率5`
 * 张三发送 `+10000` 时，系统将自动匹配其专属的独立费率进行计算。
 
@@ -65,9 +65,10 @@
 
 ## 🛠️ 专属定制开发服务
 
-除了标准版的记账机器人，我们的专业技术团队还提供 Telegram 生态的深度定制开发服务：
+除了记账机器人，我们的专业技术团队还提供 Telegram 生态的深度定制开发服务：
 
-* ✅ **报备信息拦截机器人**
+* ✅ 群管机器人
+* ✅ 信息拦截机器人
 * ✅ 业务流转自动化脚本
 * ✅ 各种定制化群管功能
 
