@@ -75,7 +75,7 @@
 
 如果您有任何定制需求或想直接体验记账机器人，请通过以下方式联系官方开发者：
 
-* **官方网站:** [https://bot.91ray.com/](https://bot.91ray.com/)
+* **官方网站:** [https://bot.91ray.com](https://bot.91ray.com)
 * **Telegram 业务联系:** [@mouren1988](https://t.me/mouren1988) | [@up1988](https://t.me/up1988)
 
 ---
